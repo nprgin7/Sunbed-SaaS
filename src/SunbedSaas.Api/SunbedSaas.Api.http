@@ -1,6 +1,6 @@
-@SunbedSaas.Api_HostAddress = http://localhost:5217
+@SunbedSaaS.Api_HostAddress = http://localhost:5193
 
-GET {{SunbedSaas.Api_HostAddress}}/weatherforecast/
+GET {{SunbedSaaS.Api_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

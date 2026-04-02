@@ -1,4 +1,4 @@
-﻿namespace SunbedSaas.Core;
+﻿namespace SunbedSaaS.Core;
 
 public class Class1
 {

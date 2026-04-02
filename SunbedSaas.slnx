@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/SunbedSaas.Api/SunbedSaas.Api.csproj" />
+    <Project Path="src/SunbedSaaS.Api/SunbedSaaS.Api.csproj" />
     <Project Path="src/SunbedSaaS.Core/SunbedSaaS.Core.csproj" />
     <Project Path="src/SunbedSaaS.Infrastructure/SunbedSaaS.Infrastructure.csproj" />
   </Folder>
